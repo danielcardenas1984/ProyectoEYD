@@ -1,0 +1,35 @@
+  1. Archivos necesarios:
+****Instalador de xamm.
+Instalar xamm
+Zip Proyecto E&D.
+
+***PASOS PARA INSTALAR LA BASE DE DATOS****
+
+1. ESCRIBIR EN LA BARRA DE DIRECCIONES DEL NAVEGADOR LA PALABRA :  localhost, esta nos llevara a la pagina principal de xampp.
+2. dar clik en phpMYadmin y este nos ingresara al administrador de bases de datos.
+3. Vamos a la pestaña SQL
+4. escribimos:
+CREATE DATABASE proyectoeyd; y lo ejecutamos ahy ya creamos la base de datos para nuestra pagina web.
+5. le damos click en el boto GO en la parte inferios izquierday nos llevara con exito a la creacion de la base de datos le damos a refrescar la pagina.
+y verificamos que este nuestra base de datos.
+
+6. ahora le damos clic en nuestra base de datos para que trabajemos sobre ella en la creacion de las tablas.
+7. vamos a la pestaña SQl Nos tendra que salir una pestaña de aviso diciendonos que estamos trabajando sobre nustra base de datos.
+8. vamos a la carpeta BD y copiamos todo lo que esta escrito en el archivo llamado proyecto E&D.sql lo abrimos con el block de notas.
+
+listo la base de datos creada con exito...
+
+
+****pasos para la instalacion de la aplicacion***
+
+1. Descomprimir los archivos.
+2.copiar la carpeta extraida del zip llamado proyecto E&D en : C:\xampp\htdocs
+3. ir a la direccion :" http://localhost/ProyectoE&D "  para que nos dirija a la pgina principal de nuestra aplicacion.
+si todo va bien no enviara a la pgina principal.
+ingresamos a loguin e ingresamos con el los siguientes datos:_
+ya estamos en la pagina de administracion podemos ingresar productos. administrar nuestros clientes y registrar nuestors productos en la pagina web para
+los clientes.
+
+Usuario: user
+Contraseña: user las dos van en letra minuscula.
+
